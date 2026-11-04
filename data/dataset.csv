@@ -1,0 +1,87 @@
+phrase,intent
+bonjour,greeting
+salut,greeting
+coucou,greeting
+bonsoir,greeting
+hello,greeting
+bonjour comment allez vous,greeting
+salut ça va,greeting
+bonjour monsieur,greeting
+bonjour madame,greeting
+bonne journée,greeting
+bon matin,greeting
+bon après midi,greeting
+quelle heure est-il,time
+donne-moi l'heure,time
+quelle heure,time
+il est quelle heure,time
+peux tu me dire l'heure,time
+donne l'heure,time
+l'heure s'il te plait,time
+quelle heure est il,time
+quelle heure il est,time
+tu peux me donner l'heure,time
+au revoir,goodbye
+bye,goodbye
+à bientôt,goodbye
+à plus tard,goodbye
+je m'en vais,goodbye
+salut à plus,goodbye
+au revoir à bientôt,goodbye
+à demain,goodbye
+bonne soirée,goodbye
+à tout à l'heure,goodbye
+quelle est la date,date
+quelle date sommes nous,date
+on est quel jour,date
+quelle date,date
+donne moi la date,date
+quelle est la date aujourd'hui,date
+quel jour sommes nous,date
+quel temps fait-il,weather
+quelle est la météo,weather
+il fait beau,weather
+il pleut,weather
+il fait chaud,weather
+il fait froid,weather
+comment est le temps,weather
+peux tu me raconter une blague,joke
+raconte moi une blague,joke
+dis moi une blague,joke
+une blague,joke
+fais moi rire,joke
+tu connais une blague,joke
+comment ça va,how_are_you
+ça va,how_are_you
+comment allez vous,how_are_you
+comment vas tu,how_are_you
+tu vas bien,how_are_you
+comment tu vas,how_are_you
+qui es tu,who_are_you
+c'est quoi ton nom,who_are_you
+quel est ton nom,who_are_you
+présente toi,who_are_you
+tu es qui,who_are_you
+qu'est ce que tu sais faire,help
+que peux tu faire,help
+aide moi,help
+tu peux m'aider,help
+aide,help
+comment tu fonctionnes,help
+quelles sont tes capacités,help
+merci,thanks
+merci beaucoup,thanks
+je te remercie,thanks
+c'est gentil,thanks
+de rien,youre_welcome
+pas de problème,youre_welcome
+il n'y a pas de quoi,youre_welcome
+je t'aime,love
+je t'adore,love
+tu es génial,love
+tu es super,love
+tu es le meilleur,love
+compliment,compliment
+tu es intelligent,compliment
+tu es utile,compliment
+tu es bien fait,compliment

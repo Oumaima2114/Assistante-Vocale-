@@ -1,0 +1,9 @@
+nltk
+pandas
+scikit-learn
+speechrecognition
+pyttsx3
+gtts
+playsound
+pygame
+
